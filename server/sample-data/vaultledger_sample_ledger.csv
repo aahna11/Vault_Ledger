@@ -1,0 +1,131 @@
+txn_ref,date,type,from_account,to_account,amount_inr,narration
+TXN00001,2026-08-01,OPENING,SYSTEM_EQUITY,Operating,626172.00,Opening balance
+TXN00002,2026-08-01,OPENING,SYSTEM_EQUITY,Payroll,544062.00,Opening balance
+TXN00003,2026-08-01,OPENING,SYSTEM_EQUITY,Rent Reserve,788640.00,Opening balance
+TXN00004,2026-08-01,OPENING,SYSTEM_EQUITY,Vendor Pool,611277.00,Opening balance
+TXN00005,2026-08-01,OPENING,SYSTEM_EQUITY,Tax Vault,687830.00,Opening balance
+TXN00006,2026-08-01,OPENING,SYSTEM_EQUITY,UPI Collections,512831.00,Opening balance
+TXN00007,2026-08-01,OPENING,SYSTEM_EQUITY,Savings,723640.00,Opening balance
+TXN00008,2026-08-01,OPENING,SYSTEM_EQUITY,Petty Cash,559230.00,Opening balance
+TXN00009,2026-08-02,TRANSFER,Savings,Petty Cash,34178.10,UPI refund
+TXN00010,2026-08-02,TRANSFER,UPI Collections,Savings,23908.79,Office rent
+TXN00011,2026-08-02,TRANSFER,Payroll,Petty Cash,37032.21,Internet bill
+TXN00012,2026-08-03,TRANSFER,Tax Vault,Payroll,22053.41,Vendor payment
+TXN00013,2026-08-03,TRANSFER,Petty Cash,Savings,6261.75,Client invoice settlement
+TXN00014,2026-08-04,TRANSFER,Vendor Pool,Operating,948.20,GST payment
+TXN00015,2026-08-04,TRANSFER,UPI Collections,Vendor Pool,23476.27,Electricity bill
+TXN00016,2026-08-05,TRANSFER,Petty Cash,Vendor Pool,3967.05,Salary credit
+TXN00017,2026-08-05,TRANSFER,Vendor Pool,Payroll,30800.59,GST payment
+TXN00018,2026-08-06,TRANSFER,Savings,Vendor Pool,8680.76,Vendor payment
+TXN00019,2026-08-06,TRANSFER,Operating,Rent Reserve,13408.73,Internet bill
+TXN00020,2026-08-07,TRANSFER,Petty Cash,Payroll,34902.04,GST payment
+TXN00021,2026-08-07,TRANSFER,Payroll,Petty Cash,4168.90,Internet bill
+TXN00022,2026-08-08,TRANSFER,Savings,Vendor Pool,28452.41,Vendor payment
+TXN00023,2026-08-08,TRANSFER,Operating,Tax Vault,4744.98,Salary credit
+TXN00024,2026-08-09,TRANSFER,Tax Vault,UPI Collections,19677.19,Salary credit
+TXN00025,2026-08-09,TRANSFER,Payroll,UPI Collections,35322.87,Client invoice settlement
+TXN00026,2026-08-10,TRANSFER,UPI Collections,Savings,16115.62,Salary credit
+TXN00027,2026-08-10,TRANSFER,Payroll,Tax Vault,26116.88,Internet bill
+TXN00028,2026-08-11,TRANSFER,Vendor Pool,UPI Collections,17260.57,Office rent
+TXN00029,2026-08-11,TRANSFER,Operating,Savings,39199.24,Client invoice settlement
+TXN00030,2026-08-12,TRANSFER,Payroll,Vendor Pool,11376.88,UPI refund
+TXN00031,2026-08-12,TRANSFER,Savings,Petty Cash,7953.20,Vendor payment
+TXN00032,2026-08-13,TRANSFER,Tax Vault,Rent Reserve,16204.51,Office rent
+TXN00033,2026-08-13,TRANSFER,UPI Collections,Rent Reserve,19026.17,Vendor payment
+TXN00034,2026-08-14,TRANSFER,Tax Vault,UPI Collections,22161.61,GST payment
+TXN00035,2026-08-14,TRANSFER,Payroll,Vendor Pool,16782.86,Internet bill
+TXN00036,2026-08-15,TRANSFER,Payroll,Petty Cash,38047.70,GST payment
+TXN00037,2026-08-15,TRANSFER,Petty Cash,Operating,10258.37,GST payment
+TXN00038,2026-08-16,TRANSFER,Tax Vault,Petty Cash,39246.77,Electricity bill
+TXN00039,2026-08-16,TRANSFER,Savings,Rent Reserve,22611.35,Electricity bill
+TXN00040,2026-08-16,TRANSFER,Operating,Rent Reserve,18430.41,Client invoice settlement
+TXN00041,2026-08-17,TRANSFER,Petty Cash,Operating,23077.11,Vendor payment
+TXN00042,2026-08-17,TRANSFER,Vendor Pool,Rent Reserve,28894.58,GST payment
+TXN00043,2026-08-18,TRANSFER,Operating,Savings,29307.01,Internet bill
+TXN00044,2026-08-18,TRANSFER,UPI Collections,Tax Vault,39909.77,Internet bill
+TXN00045,2026-08-19,TRANSFER,Tax Vault,Savings,2233.26,GST payment
+TXN00046,2026-08-19,TRANSFER,Tax Vault,Payroll,29939.36,Office rent
+TXN00047,2026-08-20,TRANSFER,Petty Cash,Vendor Pool,14155.94,GST payment
+TXN00048,2026-08-20,TRANSFER,Tax Vault,Operating,16350.37,GST payment
+TXN00049,2026-08-21,TRANSFER,Operating,Payroll,4367.12,Vendor payment
+TXN00050,2026-08-21,TRANSFER,Rent Reserve,Tax Vault,17254.44,Internet bill
+TXN00051,2026-08-22,TRANSFER,UPI Collections,Tax Vault,14505.06,Electricity bill
+TXN00052,2026-08-22,TRANSFER,Rent Reserve,Petty Cash,35335.99,GST payment
+TXN00053,2026-08-23,TRANSFER,Tax Vault,Rent Reserve,5936.07,Salary credit
+TXN00054,2026-08-23,TRANSFER,Operating,Rent Reserve,17703.21,Client invoice settlement
+TXN00055,2026-08-24,TRANSFER,UPI Collections,Savings,11716.25,Electricity bill
+TXN00056,2026-08-24,TRANSFER,Vendor Pool,Rent Reserve,29272.66,GST payment
+TXN00057,2026-08-25,TRANSFER,Savings,UPI Collections,10982.79,Client invoice settlement
+TXN00058,2026-08-25,TRANSFER,Petty Cash,Savings,35287.96,Salary credit
+TXN00059,2026-08-26,TRANSFER,UPI Collections,Operating,17546.30,Office rent
+TXN00060,2026-08-26,TRANSFER,Savings,Payroll,15512.42,Internet bill
+TXN00061,2026-08-27,TRANSFER,UPI Collections,Tax Vault,4796.36,UPI refund
+TXN00062,2026-08-27,TRANSFER,Tax Vault,Petty Cash,5844.85,Salary credit
+TXN00063,2026-08-28,TRANSFER,Savings,Petty Cash,30733.15,Office rent
+TXN00064,2026-08-28,TRANSFER,Payroll,Savings,34827.72,Client invoice settlement
+TXN00065,2026-08-29,TRANSFER,Savings,Operating,27237.83,Internet bill
+TXN00066,2026-08-29,TRANSFER,Petty Cash,Savings,30325.64,UPI refund
+TXN00067,2026-08-30,TRANSFER,Savings,Payroll,20036.63,GST payment
+TXN00068,2026-08-30,TRANSFER,Vendor Pool,Payroll,31792.49,Electricity bill
+TXN00069,2026-08-31,TRANSFER,Operating,Savings,39261.28,UPI refund
+TXN00070,2026-08-31,TRANSFER,Vendor Pool,Operating,4261.08,Client invoice settlement
+TXN00071,2026-08-31,TRANSFER,Rent Reserve,Vendor Pool,23757.78,Vendor payment
+TXN00072,2026-09-01,TRANSFER,UPI Collections,Rent Reserve,9320.14,Internet bill
+TXN00073,2026-09-01,TRANSFER,Savings,Operating,34569.08,Salary credit
+TXN00074,2026-09-02,TRANSFER,Petty Cash,Savings,18547.59,Office rent
+TXN00075,2026-09-02,TRANSFER,Savings,Vendor Pool,35798.54,Office rent
+TXN00076,2026-09-03,TRANSFER,UPI Collections,Operating,29482.15,Vendor payment
+TXN00077,2026-09-03,TRANSFER,Rent Reserve,Savings,27906.61,Office rent
+TXN00078,2026-09-04,TRANSFER,Savings,Payroll,9585.34,Electricity bill
+TXN00079,2026-09-04,TRANSFER,Payroll,Vendor Pool,39313.65,Client invoice settlement
+TXN00080,2026-09-05,TRANSFER,Vendor Pool,Tax Vault,28659.48,Salary credit
+TXN00081,2026-09-05,TRANSFER,Operating,Tax Vault,26493.14,Internet bill
+TXN00082,2026-09-06,TRANSFER,Payroll,Vendor Pool,35181.20,GST payment
+TXN00083,2026-09-06,TRANSFER,Rent Reserve,Petty Cash,38069.40,Electricity bill
+TXN00084,2026-09-07,TRANSFER,UPI Collections,Petty Cash,13879.60,Salary credit
+TXN00085,2026-09-07,TRANSFER,Savings,Tax Vault,3645.80,Office rent
+TXN00086,2026-09-08,TRANSFER,UPI Collections,Savings,25814.31,Client invoice settlement
+TXN00087,2026-09-08,TRANSFER,Vendor Pool,Savings,5132.81,Salary credit
+TXN00088,2026-09-09,TRANSFER,Vendor Pool,Tax Vault,10953.67,Salary credit
+TXN00089,2026-09-09,TRANSFER,Savings,Rent Reserve,18919.65,UPI refund
+TXN00090,2026-09-10,TRANSFER,Savings,Vendor Pool,21811.44,Client invoice settlement
+TXN00091,2026-09-10,TRANSFER,Rent Reserve,Tax Vault,6382.79,GST payment
+TXN00092,2026-09-11,TRANSFER,Payroll,Vendor Pool,10701.03,Internet bill
+TXN00093,2026-09-11,TRANSFER,Vendor Pool,Savings,39858.79,GST payment
+TXN00094,2026-09-12,TRANSFER,Savings,Rent Reserve,15703.00,Internet bill
+TXN00095,2026-09-12,TRANSFER,Tax Vault,Payroll,21915.48,Vendor payment
+TXN00096,2026-09-13,TRANSFER,Petty Cash,Rent Reserve,5070.01,Electricity bill
+TXN00097,2026-09-13,TRANSFER,Savings,Petty Cash,22291.09,Electricity bill
+TXN00098,2026-09-14,TRANSFER,Payroll,Savings,16139.15,Vendor payment
+TXN00099,2026-09-14,TRANSFER,Petty Cash,Savings,27347.39,Vendor payment
+TXN00100,2026-09-15,TRANSFER,Tax Vault,Payroll,6035.15,Office rent
+TXN00101,2026-09-15,TRANSFER,UPI Collections,Payroll,32022.82,UPI refund
+TXN00102,2026-09-15,TRANSFER,Tax Vault,UPI Collections,34285.59,Vendor payment
+TXN00103,2026-09-16,TRANSFER,Vendor Pool,Petty Cash,11463.26,Client invoice settlement
+TXN00104,2026-09-16,TRANSFER,Payroll,Petty Cash,12086.82,Vendor payment
+TXN00105,2026-09-17,TRANSFER,Rent Reserve,Savings,31510.91,Vendor payment
+TXN00106,2026-09-17,TRANSFER,UPI Collections,Rent Reserve,2813.69,Office rent
+TXN00107,2026-09-18,TRANSFER,Petty Cash,Tax Vault,18322.73,Internet bill
+TXN00108,2026-09-18,TRANSFER,Vendor Pool,Savings,5242.50,UPI refund
+TXN00109,2026-09-19,TRANSFER,Vendor Pool,Payroll,36008.29,Vendor payment
+TXN00110,2026-09-19,TRANSFER,Petty Cash,Rent Reserve,23991.86,Office rent
+TXN00111,2026-09-20,TRANSFER,Operating,Savings,5183.51,Internet bill
+TXN00112,2026-09-20,TRANSFER,Vendor Pool,Payroll,2238.49,Vendor payment
+TXN00113,2026-09-21,TRANSFER,Savings,Vendor Pool,6773.59,Office rent
+TXN00114,2026-09-21,TRANSFER,Rent Reserve,Operating,34717.11,Office rent
+TXN00115,2026-09-22,TRANSFER,Petty Cash,UPI Collections,35499.26,Client invoice settlement
+TXN00116,2026-09-22,TRANSFER,Rent Reserve,Tax Vault,5167.19,GST payment
+TXN00117,2026-09-23,TRANSFER,Vendor Pool,Payroll,24518.03,GST payment
+TXN00118,2026-09-23,TRANSFER,Rent Reserve,Operating,19251.96,Client invoice settlement
+TXN00119,2026-09-24,TRANSFER,Petty Cash,Tax Vault,23999.84,Vendor payment
+TXN00120,2026-09-24,TRANSFER,Rent Reserve,Vendor Pool,27996.59,UPI refund
+TXN00121,2026-09-25,TRANSFER,Rent Reserve,Payroll,34399.55,UPI refund
+TXN00122,2026-09-25,TRANSFER,Rent Reserve,Vendor Pool,14034.68,GST payment
+TXN00123,2026-09-26,TRANSFER,Petty Cash,Rent Reserve,20588.66,Vendor payment
+TXN00124,2026-09-26,TRANSFER,Tax Vault,Vendor Pool,20093.31,Salary credit
+TXN00125,2026-09-27,TRANSFER,Payroll,UPI Collections,39834.24,Salary credit
+TXN00126,2026-09-27,TRANSFER,UPI Collections,Petty Cash,24486.16,UPI refund
+TXN00127,2026-09-28,TRANSFER,Tax Vault,Vendor Pool,30099.63,GST payment
+TXN00128,2026-09-28,TRANSFER,Payroll,Tax Vault,36564.50,Office rent
+TXN00129,2026-09-29,TRANSFER,UPI Collections,Operating,29174.82,Salary credit
+TXN00130,2026-09-29,TRANSFER,UPI Collections,Petty Cash,9920.33,Client invoice settlement

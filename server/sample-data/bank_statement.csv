@@ -1,0 +1,122 @@
+bank_ref,date,amount_inr,account,description
+BNK00009,2026-08-02,34178.10,Savings,UPI refund
+BNK00010,2026-08-02,23908.79,UPI Collections,Office rent
+BNK00011,2026-08-02,37032.21,Payroll,Internet bill
+BNK00012,2026-08-03,22053.41,Tax Vault,Vendor payment
+BNK00013,2026-08-03,6261.75,Petty Cash,Client invoice settlement
+BNK00017,2026-08-05,30800.59,Vendor Pool,GST payment
+BNK00018,2026-08-06,8680.76,Savings,Vendor payment
+BNK00019,2026-08-06,13408.73,Operating,Internet bill
+BNK00020,2026-08-07,34902.04,Petty Cash,GST payment
+BNK00021,2026-08-07,4168.90,Payroll,Internet bill
+BNK00022,2026-08-08,28462.41,Savings,Vendor payment
+BNK00023,2026-08-08,4744.98,Operating,Salary credit
+BNK00024,2026-08-09,19677.19,Tax Vault,Salary credit
+BNK00025,2026-08-09,35322.87,Payroll,Client invoice settlement
+BNK00026,2026-08-10,16115.62,UPI Collections,Salary credit
+BNK00027,2026-08-10,26116.88,Payroll,Internet bill
+BNK00028,2026-08-11,17260.57,Vendor Pool,Office rent
+BNK00029,2026-08-11,39199.24,Operating,Client invoice settlement
+BNK00030,2026-08-12,11376.88,Payroll,UPI refund
+BNK00031,2026-08-12,7953.20,Savings,Vendor payment
+BNK00032,2026-08-13,16209.51,Tax Vault,Office rent
+BNK00033,2026-08-13,19026.17,UPI Collections,Vendor payment
+BNK00034,2026-08-14,22161.61,Tax Vault,GST payment
+BNK00035,2026-08-14,16782.86,Payroll,Internet bill
+BNK00036,2026-08-15,38047.70,Payroll,GST payment
+BNK00037,2026-08-15,10258.37,Petty Cash,GST payment
+BNK00038,2026-08-16,39246.77,Tax Vault,Electricity bill
+BNK00039,2026-08-16,22611.35,Savings,Electricity bill
+BNK00040,2026-08-16,18430.41,Operating,Client invoice settlement
+BNK00041,2026-08-17,23077.11,Petty Cash,Vendor payment
+BNK00042,2026-08-17,28894.58,Vendor Pool,GST payment
+BNK00043,2026-08-18,29307.01,Operating,Internet bill
+BNK00044,2026-08-18,39909.77,UPI Collections,Internet bill
+BNK00045,2026-08-19,2233.26,Tax Vault,GST payment
+BNK00046,2026-08-19,29939.36,Tax Vault,Office rent
+BNK00047,2026-08-20,14155.94,Petty Cash,GST payment
+BNK00048,2026-08-20,16350.37,Tax Vault,GST payment
+BNK00049,2026-08-21,4367.12,Operating,Vendor payment
+BNK00050,2026-08-21,17254.44,Rent Reserve,Internet bill
+BNK00051,2026-08-22,14505.06,UPI Collections,Electricity bill
+BNK00052,2026-08-22,35335.99,Rent Reserve,GST payment
+BNK00053,2026-08-23,5936.07,Tax Vault,Salary credit
+BNK00054,2026-08-23,17703.21,Operating,Client invoice settlement
+BNK00055,2026-08-24,11716.25,UPI Collections,Electricity bill
+BNK00056,2026-08-24,29272.66,Vendor Pool,GST payment
+BNK00057,2026-08-25,10982.79,Savings,Client invoice settlement
+BNK00058,2026-08-25,35287.96,Petty Cash,Salary credit
+BNK00059,2026-08-26,17546.30,UPI Collections,Office rent
+BNK00060,2026-08-26,15512.42,Savings,Internet bill
+BNK00061,2026-08-27,4796.36,UPI Collections,UPI refund
+BNK00062,2026-08-27,5844.85,Tax Vault,Salary credit
+BNK00063,2026-08-28,30733.15,Savings,Office rent
+BNK00064,2026-08-28,34827.72,Payroll,Client invoice settlement
+BNK00065,2026-08-29,27237.83,Savings,Internet bill
+BNK00066,2026-08-29,30325.64,Petty Cash,UPI refund
+BNK00067,2026-08-30,20036.63,Savings,GST payment
+BNK00068,2026-08-30,31792.49,Vendor Pool,Electricity bill
+BNK00069,2026-08-31,39261.28,Operating,UPI refund
+BNK00070,2026-08-31,4261.08,Vendor Pool,Client invoice settlement
+BNK00071,2026-08-31,23757.78,Rent Reserve,Vendor payment
+BNK00072,2026-09-01,9320.14,UPI Collections,Internet bill
+BNK00073,2026-09-01,34569.08,Savings,Salary credit
+BNK00074,2026-09-02,18547.59,Petty Cash,Office rent
+BNK00075,2026-09-02,35798.54,Savings,Office rent
+BNK00076,2026-09-03,29482.15,UPI Collections,Vendor payment
+BNK00077,2026-09-03,27906.61,Rent Reserve,Office rent
+BNK00078,2026-09-04,9585.34,Savings,Electricity bill
+BNK00079,2026-09-04,39313.65,Payroll,Client invoice settlement
+BNK00080,2026-09-05,28659.48,Vendor Pool,Salary credit
+BNK00081,2026-09-05,26493.14,Operating,Internet bill
+BNK00082,2026-09-06,35181.20,Payroll,GST payment
+BNK00083,2026-09-06,38069.40,Rent Reserve,Electricity bill
+BNK00084,2026-09-07,13879.60,UPI Collections,Salary credit
+BNK00085,2026-09-07,3645.80,Savings,Office rent
+BNK00086,2026-09-08,25814.31,UPI Collections,Client invoice settlement
+BNK00087,2026-09-08,5132.81,Vendor Pool,Salary credit
+BNK00088,2026-09-09,10953.67,Vendor Pool,Salary credit
+BNK00089,2026-09-09,18919.65,Savings,UPI refund
+BNK00090,2026-09-10,21811.44,Savings,Client invoice settlement
+BNK00091,2026-09-10,6382.79,Rent Reserve,GST payment
+BNK00092,2026-09-11,10701.03,Payroll,Internet bill
+BNK00093,2026-09-11,39858.79,Vendor Pool,GST payment
+BNK00094,2026-09-12,15703.00,Savings,Internet bill
+BNK00095,2026-09-12,21915.48,Tax Vault,Vendor payment
+BNK00096,2026-09-13,5070.01,Petty Cash,Electricity bill
+BNK00097,2026-09-13,22291.09,Savings,Electricity bill
+BNK00098,2026-09-14,16139.15,Payroll,Vendor payment
+BNK00099,2026-09-14,27347.39,Petty Cash,Vendor payment
+BNK00100,2026-09-15,6035.15,Tax Vault,Office rent
+BNK00101,2026-09-15,32022.82,UPI Collections,UPI refund
+BNK00102,2026-09-15,34285.59,Tax Vault,Vendor payment
+BNK00103,2026-09-16,11463.26,Vendor Pool,Client invoice settlement
+BNK00104,2026-09-16,12086.82,Payroll,Vendor payment
+BNK00105,2026-09-17,31510.91,Rent Reserve,Vendor payment
+BNK00106,2026-09-17,2813.69,UPI Collections,Office rent
+BNK00107,2026-09-18,18322.73,Petty Cash,Internet bill
+BNK00108,2026-09-18,5242.50,Vendor Pool,UPI refund
+BNK00109,2026-09-19,36008.29,Vendor Pool,Vendor payment
+BNK00110,2026-09-19,23991.86,Petty Cash,Office rent
+BNK00111,2026-09-20,5183.51,Operating,Internet bill
+BNK00112,2026-09-20,2238.49,Vendor Pool,Vendor payment
+BNK00113,2026-09-21,6773.59,Savings,Office rent
+BNK00114,2026-09-21,34717.11,Rent Reserve,Office rent
+BNK00115,2026-09-22,35499.26,Petty Cash,Client invoice settlement
+BNK00116,2026-09-22,5167.19,Rent Reserve,GST payment
+BNK00117,2026-09-23,24518.03,Vendor Pool,GST payment
+BNK00118,2026-09-23,19251.96,Rent Reserve,Client invoice settlement
+BNK00119,2026-09-24,23999.84,Petty Cash,Vendor payment
+BNK00120,2026-09-24,27996.59,Rent Reserve,UPI refund
+BNK00121,2026-09-25,34399.55,Rent Reserve,UPI refund
+BNK00122,2026-09-25,14034.68,Rent Reserve,GST payment
+BNK00123,2026-09-26,20588.66,Petty Cash,Vendor payment
+BNK00124,2026-09-26,20093.31,Tax Vault,Salary credit
+BNK00125,2026-09-27,39834.24,Payroll,Salary credit
+BNK00126,2026-09-27,24486.16,UPI Collections,UPI refund
+BNK00127,2026-09-28,30099.63,Tax Vault,GST payment
+BNK00128,2026-09-28,36564.50,Payroll,Office rent
+BNK00129,2026-09-29,29174.82,UPI Collections,Salary credit
+BNK00130,2026-09-29,9920.33,UPI Collections,Client invoice settlement
+BNK00042,2026-08-17,28894.58,Vendor Pool,GST payment
+BNK00052,2026-08-22,35335.99,Rent Reserve,GST payment
