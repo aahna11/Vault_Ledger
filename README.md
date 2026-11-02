@@ -1,10 +1,12 @@
+*Live demo:* https://vault-ledger.onrender.com (free hosting, may take up to a minute to wake up)
+   
 # VaultLedger — Ledger & Dataset Studio
 
 Double-entry ledger project, rebuilt with a black-and-white interface, an interactive 3D landing page, and a real CSV analysis backend.
 
 ## Run it (no `npm install` needed)
 1. Install **Node.js 20 or newer** (https://nodejs.org).
-2. Unzip, open a terminal in the unzipped `vl` folder.
+2. Clone the repo and open a terminal in the project folder.
 3. `node server/index.js`   (or `npm start`)
 4. Open **http://localhost:4000**
 
